@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "node-fetch": "^2.6.0",
-    "proxy-agent": "^6.4.0",
-    "readline-sync": "^1.4.10"
-  }
-}
